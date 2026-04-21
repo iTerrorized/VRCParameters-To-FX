@@ -1,0 +1,23 @@
+{
+  "name": "dev.terrorized.vrcparameterstofx",
+  "displayName": "VRCParameters To FX",
+  "version": "1.0.0",
+  "description": "Editor tool to sync VRCExpressionParameters into an FX AnimatorController with the correct parameter types.",
+  "url": "https://github.com/iTerrorized/VRCParameters-To-FX",
+  "vpmDependencies": {
+    "com.vrchat.avatars": "^3.10.0"
+  },
+  "type": "tool",
+  "keywords": [
+    "Terrorized",
+    "VRChat",
+    "Parameters",
+    "Animator",
+    "FX"
+  ],
+  "author": {
+    "name": "Terrorized",
+    "email": "xterrorized@outlook.com",
+    "url": "https://terrorized.dev"
+  }
+}
